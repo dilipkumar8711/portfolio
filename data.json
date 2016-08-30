@@ -1,0 +1,88 @@
+{ 
+"contents": 
+	{
+    "menu" :
+    	[
+    		{
+    			"name":"About Me", 
+    			"link":"#about"
+    		}, 
+    		{
+    		 	"name":"Skills",
+    		 	"link":"#skill"
+    		}, 
+    		{
+    			"name":"Experience", 
+    			"link":"#experience"
+    		}, 
+    		{
+    			"name":"Education", 
+    			"link":"#education"
+    		}, 
+    		{
+    			"name":"Projects", 
+    			"link":"#project"
+    		},
+    		{
+    			"name":"Contact", 
+    			"link":"#contact"
+    		}
+    	],
+	"header" :
+		{
+			"Title":"HI! I'm Dileep Kumar ",
+			"Caption":"Web Applications Developer from Karnataka",
+			"Readbutton":"HIRE ME"
+		},
+	"about" :
+		{
+			"story":"Hello, I’m a Web Applications Developer & IoT (Internet of Things) hobbyist  from Madurai, Tamilnadu. I hold a bachelor's degree in Information Technology and a diploma in Electrical Engineering."
+		},
+	"info":
+		{
+    		"name":"Dileep Kumar", 
+    		"phone":"+91 7411380718", 
+    		"email":"dilipkumar87.11@gmail.com", 
+    		"address":"Hassan, Karnataka",
+            "lanuage":"Kannada, English, Hindi, Tamil",
+            "hobbies":"Coding, Watching movies, Listening music"
+            
+    	},
+    "skills":
+    	{
+    		"skill":"Man behind the gun, any sophisticated weapons. Human remains that taking the role. We are experienced in utilizing all resources."
+    	},
+    "skilllits" :
+    	[
+    		{
+    			"valuea":"70",
+    			"name":"JavaScript", 
+    			"value":"70"
+    		}, 
+    		{
+    			"valuea":"40",
+    			"name":"C", 
+    			"value":"40"
+    		},
+    		{
+    			"valuea":"90",
+    			"name":"HTML", 
+    			"value":"90"
+    		}, 
+    		{
+    		 	"valuea":"20",
+    		 	"name":"Java",
+    		 	"value":"20"
+    		}
+    	],
+    "contact" :
+    	{
+    		"address":"#47, 2nd B Main road, RR Tempple Road, J C Layout, Devasandra, K R Puram, Bangalore, India, 560037",
+    		"phone":"+91 7411380718",
+    		"email":"dilipkumar87.11@gmail.com",
+    		"site":"www.arjunthiraviam.co.in"
+    	}
+
+    	
+	}
+}
